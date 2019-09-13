@@ -20,10 +20,12 @@ Create a new WPS project starting with a template and deploy it on a host and wi
 
 ### Open Source Components
 
-Server:
+PyWPS - WPS Server:
 * https://www.osgeo.org/projects/pywps/
+* https://github.com/PyWPS/presentation/blob/master/01-intro.rst
+* https://pywps.readthedocs.io/en/latest/pywps.html
 
-Client:
+OWSLib - WPS Client:
 * https://www.osgeo.org/projects/owslib/
 
 ### Birdhouse
