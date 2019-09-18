@@ -31,6 +31,7 @@ Create a new WPS project starting with a template and deploy it on a host and wi
 ---
 ### Can't do it alone
 ![cp4cds federated](media/cp4cds-federated.jpg)
+* Advantages of Amazon WS
 ---
 ### Security
 ![security](media/cp4cds-access-control.jpg)
