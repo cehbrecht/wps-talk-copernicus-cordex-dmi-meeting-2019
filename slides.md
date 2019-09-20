@@ -116,6 +116,12 @@ Add your WPS to GitHub
 
 https://github.com/bird-house/babybird
 ---
+### Documentation
+Add your babybird’s repo to your ReadTheDocs account and turn on the ReadTheDocs service hook.
+![readthedocs](media/Babybird_doc.png)
+
+https://babybird.readthedocs.io/en/latest/index.html
+---
 ## Working with the new WPS
 ---
 ### Install the WPS
@@ -134,7 +140,6 @@ $ pip install -e .[dev]
 OR
 $ make develop
 ```
-https://babybird.readthedocs.io/en/latest/installation.html#install-from-github
 ---
 ### Tests included
 ```bash
@@ -142,7 +147,6 @@ $ make test # quick
 $ make test-all # slow, online
 $ make lint # codestyle checks
 ```
-https://babybird.readthedocs.io/en/latest/dev_guide.html#running-tests---
 ---
 ### Start the Service
 ```bash
@@ -152,7 +156,6 @@ $ tail -f pywps.log # check logs
 $ make stop # stop service
 ```
 No additional installation steps necessary to run service in demo mode (using Werkzeug)
-https://babybird.readthedocs.io/en/latest/installation.html#start-babybird-pywps-service
 ---
 ## The Client Side: Execute a Process
 ---
