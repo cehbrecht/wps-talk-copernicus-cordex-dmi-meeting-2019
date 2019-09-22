@@ -3,7 +3,7 @@
 Deploying a WPS for Copernicus Climate Data Store
 
 Copernicus CORDEX4CDS Meeting
-DMI, Copenhagen, 24-25 September 2019
+DMI, Copenhagen, 23-24 September 2019
 ---
 ## Table of Contents
 * What is a Web Processing Service?
@@ -71,8 +71,8 @@ Like portals, Jupyter notebooks, ...
 ### PyWPS - Server
 <img height="300" src="media/ogc-pywps.png" alt="pywps"/>
 * Python implementation of WPS
-* Open Source
-* Active community
+* Like a bicycle easy to use
+* Open Source and active community
 ```note
 To the ends of the Copernicus project, we use a PyWPS implementation for the web service. It’s an implementation of the WPS standard written in Python. It enables the use of python programs via the WPS.
 
