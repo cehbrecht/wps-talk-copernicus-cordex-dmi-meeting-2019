@@ -84,12 +84,12 @@ There are other implementations available like:
 ### What is the Goal?
 * Make climate data accessible to a wide audience
 * Use a standards based compute service
-* Example: data-reduction as a service next to a large data data pool (CORDEX)
+* Example: data-reduction as a service next to a large data pool (CORDEX)
 ```note
 The whole idea behind this specific part of the Copernicus project is to make climate data accessible to not only scientists and engineers, but also to a wide audience. This means that it’s possible to send self-explanatory values based on calculations on the raw data on top of the actual data, which is a big boon for accessibility.
 * Make climate data accessible to a wide audience, not only scientists
 * Use a standards based compute service with a self-describing interface
-* Example: data-reduction and common analysis as a service next to a large data data pool (CMIP5/CMIP6, CORDEX)
+* Example: data-reduction and common analysis as a service next to a large data pool (CMIP5/CMIP6, CORDEX)
 ```
 ---
 ### WPS for Climate Data Store
